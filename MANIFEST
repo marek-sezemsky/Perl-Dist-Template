@@ -1,0 +1,8 @@
+MANIFEST
+Makefile.PL
+README
+bin/Main.pl
+lib/Utils/Util1.pm
+lib/Utils/Util2.pm
+t/Utils1.t
+t/Utils2.t
